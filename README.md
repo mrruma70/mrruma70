@@ -30,6 +30,17 @@ Tecnologias: ASP.NET VISUAL STUDIO 2019 con SQL SERVER 2019, integracion a ERP A
 Periodo: may. 2022 - nov 2023 - Desarrollo e Implementación
 </br>
 
+## LIBRO DE INSCRICPIONES DE CERTIFICADOS DE APORTACION
+Tecnologias: ASP.NET VISUAL STUDIO 2019 con SQL SERVER 2019, C# MCV, EntityFramework Code First, JavaScript, JSon, jQuery, AJAX, BootStrap, SendGrid email.
+### COOPERATIVA DE AHORRO Y CREDITO
+Periodo: may. 2022 - Desarrollo e Implementación
+</br>
+
+## Sistema de Administración de Servicios de Fibra Óptica (SASFO)
+Tecnologias: Visual Studio 2019, WEB ASP.NET C# MCV, EntityFramework Code First, JavaScript, JSon, jQuery, AJAX, BootStrap v4 App Stack, LINQ, SendGrid email, VETRO FiberMap® API CROSSWALK V1 and V2, SQL SERVER 2017. El inicio de sesión único (SSO), Integración Google MAP.
+### WE ENABLE IT CA S.A. · Trabajo Remoto-Panamá
+Periodo: oct. 2020 - may. 2022 - Desarrollo e Implementación
+</br>
 
 
 
