@@ -61,7 +61,7 @@ Periodo: oct. 2020 - may. 2022 - Desarrollo e Implementación
 
 ### SISTEMA DE PRESUPUESTO
 Tecnologias: Visual Studio 2017 Desktop, metodología MVP, SQL SERVER 2016, Crystal Repots, DevXpress.
-## SOLUCIONES INFORMATICAS -	PAWANKA FUND
+#### SOLUCIONES INFORMATICAS -	PAWANKA FUND
 Periodo: Abril 2020 - Desarrollo e Implementación
 </br>
 
@@ -71,27 +71,27 @@ Tecnologias: Desarrollo en Xamarin Visual Studio 2017 App Móvil (ANDROID), con 
 Periodo: Mayo – septiembre 2019 - Desarrollo e Implementación
 </br>
 
-### Verticalización Modulo control de Académico y Horarios
+## Verticalización Modulo control de Académico y Horarios
 Tecnologias: ERP Adempiere 3.8 
-## WEB SOLUTION - DON BOSCO 
+#### WEB SOLUTION - DON BOSCO 
 Periodo: junio 2017 - Desarrollo e Implementación
 </br>
 
-### Verticalización Modulo control de Contadores Rockolas
+## Verticalización Modulo control de Contadores Rockolas
 Tecnologias: Adempiere 3.8, Interface de colector para ANDROID en .NET C# con Xamarin.
-## SOLUCIONES INFORMATICAS - NICA SLOT 
+#### SOLUCIONES INFORMATICAS - NICA SLOT 
 Periodo: diciembre 2016 - Desarrollo e Implementación
 </br>
 
-### Sistema Contabilidad y Bancos, Evaluación Presupuesto
+## Sistema Contabilidad y Bancos, Evaluación Presupuesto
 Tecnologias: Visual Studio 2010 VB.NET y SQL SERVER 2008
-## SOLUCIONES INFORMATICAS - SISTEMA DE INTEGRACION TURISTICA – SITCA
+#### SOLUCIONES INFORMATICAS - SISTEMA DE INTEGRACION TURISTICA – SITCA
 Periodo: mayo 2016 - Desarrollo e Implementación
 </br>
 
-### ERP Adempiere 3.7
+## ERP Adempiere 3.7
 Tecnologias: Desarrollo de más 150 reportes en Jasper, módulos Contabilidad, Inventarios, CXC, CXP, Producción, Ventas, Bancos, Exportaciones, Gerenciales, Nomina, Customización exportaciones packing list, rendimientos de materia prima en producción, Base de Datos PostgreSQL
-## CENTRAL AMERICA FISHIRIES  
+#### CENTRAL AMERICA FISHIRIES  
 Periodo: junio 2014 – octubre 2015 - programación e Integración al ERP Adempiere
 </br>
 
@@ -99,7 +99,7 @@ Periodo: junio 2014 – octubre 2015 - programación e Integración al ERP Ademp
 
 
 
-<!--**mrruma70/mrruma70** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **mrruma70/mrruma70** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
