@@ -33,7 +33,7 @@ Consultor Independiente: Desarrollo de Sistemas en CLIPPER, VFP, VB6, VB.NET/C#,
 
 ## Sistema de Crédito, Acopio y Liquidaciones, Control de Fondos
 Tecnologias: ASP.NET MVC ENTITY FRAMEWORK 5, CODE FIRST, Bootstrap, LINQ, JASON, JAVASCRIPT, SQL SERVER 2016
-### UCA-SOPPEXCCA
+### SOLUCIONES INFORMATICAS -	UCA-SOPPEXCCA
 Periodo: Abril 2018 – Abril 2019 - Desarrollo e Implementación
 </br>
 Periodo: Abril - Septiembre 2023 - Mantenimiento Adaptativo al Sistema
@@ -55,6 +55,55 @@ Tecnologias: Visual Studio 2019, WEB ASP.NET C# MCV, EntityFramework Code First,
 ### WE ENABLE IT CA S.A. · Trabajo Remoto-Panamá
 Periodo: oct. 2020 - may. 2022 - Desarrollo e Implementación
 </br>
+
+## SISTEMA DE PRESUPUESTO
+Tecnologias: Visual Studio 2017 Desktop, metodología MVP, SQL SERVER 2016, Crystal Repots, DevXpress.
+### SOLUCIONES INFORMATICAS -	PAWANKA FUND
+Periodo: Abril 2020 - Desarrollo e Implementación
+</br>
+
+## Sistema Recolector de Cobros de Tributos
+Tecnologias: Desarrollo en Xamarin Visual Studio 2017 App Móvil (ANDROID), con Base datos local SQLITE, y Consumo de datos por WEBAPI BD SQL SERVER 2016, adaptación y creación de clases para la impresión Bixolon SPP-230 III Mobile Bluetooth.
+### SOLUCIONES INFORMATICAS -	ALCALDIA CIUDAD SANDINO
+Periodo: Mayo – septiembre 2019 - Desarrollo e Implementación
+</br>
+
+## Sistema Recolector de Cobros de Tributos
+Tecnologias: Desarrollo en Xamarin Visual Studio 2017 App Móvil (ANDROID), con Base datos local SQLITE, y Consumo de datos por WEBAPI BD SQL SERVER 2016, adaptación y creación de clases para la impresión Bixolon SPP-230 III Mobile Bluetooth.
+### SOLUCIONES INFORMATICAS -	ALCALDIA CIUDAD SANDINO
+Periodo: Mayo – septiembre 2019 - Desarrollo e Implementación
+</br>
+
+## Verticalización Modulo control de Académico y Horarios
+Tecnologias: ERP Adempiere 3.8 
+### WEB SOLUTION - DON BOSCO 
+Periodo: junio 2017 - Desarrollo e Implementación
+</br>
+
+## Verticalización Modulo control de Contadores Rockolas
+Tecnologias: Adempiere 3.8, Interface de colector para ANDROID en .NET C# con Xamarin.
+### SOLUCIONES INFORMATICAS - NICA SLOT 
+Periodo: diciembre 2016 - Desarrollo e Implementación
+</br>
+
+## Sistema Contabilidad y Bancos, Evaluación Presupuesto
+Tecnologias: Visual Studio 2010 VB.NET y SQL SERVER 2008
+### SOLUCIONES INFORMATICAS - NICA SLOT 
+Periodo: mayo 2016 - Desarrollo e Implementación
+</br>
+
+## Sistema Contabilidad y Bancos, Evaluación Presupuesto
+Tecnologias: Visual Studio 2010 VB.NET y SQL SERVER 2008
+### SOLUCIONES INFORMATICAS - NICA SLOT 
+Periodo: mayo 2016 - Desarrollo e Implementación
+</br>
+
+## ERP Adempiere 3.7
+Tecnologias: Desarrollo de más 150 reportes en Jasper, módulos Contabilidad, Inventarios, CXC, CXP, Producción, Ventas, Bancos, Exportaciones, Gerenciales, Nomina, Customización exportaciones packing list, rendimientos de materia prima en producción, Base de Datos PostgreSQL
+### CENTRAL AMERICA FISHIRIES  
+Periodo: junio 2014 – octubre 2015 - programación e Integración al ERP Adempiere
+</br>
+
 
 
 
