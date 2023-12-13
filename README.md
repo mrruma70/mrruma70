@@ -14,7 +14,16 @@ Consultor Independiente: Desarrollo de Sistemas en CLIPPER, VFP, VB6, VB.NET/C#,
 
 
 </br>
-Y alguna más...
+
+# Los proyectos de Desarrollados 🔭
+
+### Sistema de Crédito, Acopio, Liquidaciones y control de fondos
+Tecnologias: ASP.NET MVC ENTITY FRAMEWORK 5, CODE FIRST, Bootstrap, LINQ, JASON, JAVASCRIPT, SQL SERVER 2016
+## UCA-SOPPEXCCA
+Periodo: Abril 2018 – Abril 2019 - Desarrollo e Implementación
+Periodo: Abril - Septiembre 2023 - Mantenimiento Adaptativo al Sistema
+
+
 <!--
 **mrruma70/mrruma70** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
