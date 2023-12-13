@@ -1,5 +1,7 @@
 # Victor Porras
 ### Senior Software Development 👋 mas de 20 años de Experiencia.
+</br>
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 Desarrollo de Sistemas en CLIPPER, VFP, VB6, VB.NET/C#, Sql Server 2008/2016, POSTGRESQL, , MYSQL, ORACLE, SQLITE, DevExpress, Telerik, ComponetOne, ASP.NET MVC5, Entity Framework, Code First, Web Services, Api Services, Reporting Services, Crystal Report for .NET., Xamarin (cross-platform development software which simplifies mobile application creation ), Adempiere - Idempiere ERP, CRM and SCM.
 
@@ -94,8 +96,9 @@ Periodo: junio 2014 – octubre 2015 - programación e Integración al ERP Ademp
 </br>
 
 
-</br>
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
+
+
+
 <!--**mrruma70/mrruma70** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
