@@ -68,12 +68,6 @@ Tecnologias: Desarrollo en Xamarin Visual Studio 2017 App Móvil (ANDROID), con 
 Periodo: Mayo – septiembre 2019 - Desarrollo e Implementación
 </br>
 
-## Sistema Recolector de Cobros de Tributos
-Tecnologias: Desarrollo en Xamarin Visual Studio 2017 App Móvil (ANDROID), con Base datos local SQLITE, y Consumo de datos por WEBAPI BD SQL SERVER 2016, adaptación y creación de clases para la impresión Bixolon SPP-230 III Mobile Bluetooth.
-### SOLUCIONES INFORMATICAS -	ALCALDIA CIUDAD SANDINO
-Periodo: Mayo – septiembre 2019 - Desarrollo e Implementación
-</br>
-
 ## Verticalización Modulo control de Académico y Horarios
 Tecnologias: ERP Adempiere 3.8 
 ### WEB SOLUTION - DON BOSCO 
