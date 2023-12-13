@@ -32,7 +32,7 @@ Desarrollo de Sistemas en CLIPPER, VFP, VB6, VB.NET/C#, Sql Server 2008/2016, PO
 
 </br>
 
-# Los proyectos de Desarrollados: 🔭
+# Los Proyectos Desarrollados: 🔭
 
 ## Sistema de Crédito, Acopio y Liquidaciones, Control de Fondos
 Tecnologias: ASP.NET MVC ENTITY FRAMEWORK 5, CODE FIRST, Bootstrap, LINQ, JASON, JAVASCRIPT, SQL SERVER 2016
