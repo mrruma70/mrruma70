@@ -2,7 +2,7 @@
 
 Consultor Independiente: Desarrollo de Sistemas en CLIPPER, VFP, VB6, VB.NET/C#, Sql Server 2008/2016, POSTGRESQL, , MYSQL, ORACLE, SQLITE, DevExpress, Telerik, ComponetOne, ASP.NET MVC5, Entity Framework, Code First, Web Services, Api Services, Reporting Services, Crystal Report for .NET., Xamarin (cross-platform development software which simplifies mobile application creation ), Adempiere - Idempiere ERP, CRM and SCM.
 
-## Tecnologías:
+## Tecnologías: 🌐
 
 [![Visual Studio](https://img.shields.io/badge/visual-studio-marketplace?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 [![Xamarin](https://img.shields.io/badge/Xamarin-3199DC?style=for-the-badge&logo=xamarin&logoColor=white)]()
@@ -15,7 +15,7 @@ Consultor Independiente: Desarrollo de Sistemas en CLIPPER, VFP, VB6, VB.NET/C#,
 
 </br>
 
-# Los proyectos de Desarrollados 🔭
+# Los proyectos de Desarrollados: 🔭
 
 ## Sistema de Crédito, Acopio y Liquidaciones, Control de Fondos
 Tecnologias: ASP.NET MVC ENTITY FRAMEWORK 5, CODE FIRST, Bootstrap, LINQ, JASON, JAVASCRIPT, SQL SERVER 2016
