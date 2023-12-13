@@ -36,20 +36,20 @@ Desarrollo de Sistemas en CLIPPER, VFP, VB6, VB.NET/C#, Sql Server 2008/2016, PO
 
 ## Sistema de Crédito, Acopio y Liquidaciones, Control de Fondos
 Tecnologias: ASP.NET MVC ENTITY FRAMEWORK 5, CODE FIRST, Bootstrap, LINQ, JASON, JAVASCRIPT, SQL SERVER 2016
-### SOLUCIONES INFORMATICAS -	UCA-SOPPEXCCA
+#### SOLUCIONES INFORMATICAS -	UCA-SOPPEXCCA
 Periodo: Abril 2018 – Abril 2019 - Desarrollo e Implementación
 </br>
 Periodo: Abril - Septiembre 2023 - Mantenimiento Adaptativo al Sistema
 
 ## Sistema Control de Servicios de Recarga Extinguidores
 Tecnologias: ASP.NET VISUAL STUDIO 2019 con SQL SERVER 2019, integracion a ERP ADEMPIERE, responsive para PC, Tablet, Movil. C# MCV, EntityFramework Code First, JavaScript, JSon, jQuery, AJAX, BootStrap, SendGrid email, Captura de Firma digital.
-### SCI-EBENEZER
+#### SCI-EBENEZER
 Periodo: may. 2022 - nov 2023 - Desarrollo e Implementación
 </br>
 
 ## LIBRO DE INSCRICPIONES DE CERTIFICADOS DE APORTACION
 Tecnologias: ASP.NET VISUAL STUDIO 2019 con SQL SERVER 2019, C# MCV, EntityFramework Code First, JavaScript, JSon, jQuery, AJAX, BootStrap, SendGrid email.
-# COOPERATIVA DE AHORRO Y CREDITO
+#### COOPERATIVA DE AHORRO Y CREDITO
 Periodo: may. 2022 - Desarrollo e Implementación
 </br>
 
