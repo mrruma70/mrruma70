@@ -95,7 +95,7 @@ Periodo: junio 2014 – octubre 2015 - programación e Integración al ERP Ademp
 
 
 </br>
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
 <!--**mrruma70/mrruma70** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
