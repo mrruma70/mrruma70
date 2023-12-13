@@ -88,13 +88,7 @@ Periodo: diciembre 2016 - Desarrollo e Implementación
 
 ## Sistema Contabilidad y Bancos, Evaluación Presupuesto
 Tecnologias: Visual Studio 2010 VB.NET y SQL SERVER 2008
-### SOLUCIONES INFORMATICAS - NICA SLOT 
-Periodo: mayo 2016 - Desarrollo e Implementación
-</br>
-
-## Sistema Contabilidad y Bancos, Evaluación Presupuesto
-Tecnologias: Visual Studio 2010 VB.NET y SQL SERVER 2008
-### SOLUCIONES INFORMATICAS - NICA SLOT 
+### SOLUCIONES INFORMATICAS - SISTEMA DE INTEGRACION TURISTICA – SITCA
 Periodo: mayo 2016 - Desarrollo e Implementación
 </br>
 
