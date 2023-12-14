@@ -1,6 +1,6 @@
 # Victor Porras
+### 🖥️ Desarrollador de Sistemas 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mrrum70@gmail.com)
-
 </br>
 </br>
 Desarrollo de Sistemas en CLIPPER, VFP, VB6, VB.NET/C#, Sql Server 2008/2016, POSTGRESQL, MYSQL, ORACLE, SQLITE, DevExpress, Telerik, ComponetOne, ASP.NET MVC5, Entity Framework, Code First, Web Services, Api Services, Reporting Services, Crystal Report for .NET., Xamarin (cross-platform development software which simplifies mobile application creation ), Adempiere - Idempiere ERP, CRM and SCM.
@@ -32,9 +32,9 @@ Desarrollo de Sistemas en CLIPPER, VFP, VB6, VB.NET/C#, Sql Server 2008/2016, PO
 
 </br>
 
-# Los Proyectos Desarrollados: 🔭
+# Proyectos Desarrollados: 🔭
 
-## Sistema de Crédito, Acopio y Liquidaciones, Control de Fondos
+## Sistema de Crédito, Control de Fondos, Acopio y Liquidaciones Cafe-Cacao
 Tecnologias: ASP.NET MVC ENTITY FRAMEWORK 5, CODE FIRST, Bootstrap, LINQ, JASON, JAVASCRIPT, SQL SERVER 2016
 #### SOLUCIONES INFORMATICAS -	UCA-SOPPEXCCA
 Periodo: Abril 2018 – Abril 2019 - Desarrollo e Implementación
@@ -48,13 +48,13 @@ Periodo: may. 2022 - nov 2023 - Desarrollo e Implementación
 </br>
 
 ## LIBRO DE INSCRICPIONES DE CERTIFICADOS DE APORTACION
-Tecnologias: ASP.NET VISUAL STUDIO 2019 con SQL SERVER 2019, C# MCV, EntityFramework Code First, JavaScript, JSon, jQuery, AJAX, BootStrap, SendGrid email.
-#### COOPERATIVA DE AHORRO Y CREDITO
+Tecnologias: ASP.NET VISUAL STUDIO 2019 con SQL SERVER 2019, C# MCV, EntityFramework Code First, JavaScript, JSon, jQuery, AJAX, BootStrap.
+#### COOPERATIVA DE AHORRO Y CREDITO AVANCES RL.
 Periodo: may. 2022 - Desarrollo e Implementación
 </br>
 
 ## Sistema de Administración de Servicios de Fibra Óptica (SASFO)
-Tecnologias: Visual Studio 2019, WEB ASP.NET C# MCV, EntityFramework Code First, JavaScript, JSon, jQuery, AJAX, BootStrap v4 App Stack, LINQ, SendGrid email, VETRO FiberMap® API CROSSWALK V1 and V2, SQL SERVER 2017. El inicio de sesión único (SSO), Integración Google MAP.
+Tecnologias: Visual Studio 2019, WEB ASP.NET C# MCV, EntityFramework Code First, JavaScript, JSon, jQuery, AJAX, BootStrap v4 App Stack, LINQ, SendGrid email, VETRO FiberMap® API CROSSWALK V1 and V2, SQL SERVER 2017. Inicio de sesión único (SSO), Integración Google MAP.
 #### WE ENABLE IT CA S.A. · Trabajo Remoto-Panamá
 Periodo: oct. 2020 - may. 2022 - Desarrollo e Implementación
 </br>
@@ -66,31 +66,31 @@ Periodo: Abril 2020 - Desarrollo e Implementación
 </br>
 
 ## Sistema Recolector de Cobros de Tributos
-Tecnologias: Desarrollo en Xamarin Visual Studio 2017 App Móvil (ANDROID), con Base datos local SQLITE, y Consumo de datos por WEBAPI BD SQL SERVER 2016, adaptación y creación de clases para la impresión Bixolon SPP-230 III Mobile Bluetooth.
+Tecnologias: Desarrollo en Xamarin Visual Studio 2017 App Móvil (ANDROID), con Base datos local SQLITE, y Consumo de datos por API REST para su Integracio con el Core de Recaudos, SQL SERVER 2016, adaptación y creación de clases para la impresión Bixolon SPP-230 III Mobile Bluetooth.
 #### SOLUCIONES INFORMATICAS -	ALCALDIA CIUDAD SANDINO
 Periodo: Mayo – septiembre 2019 - Desarrollo e Implementación
 </br>
 
-## Verticalización Modulo control de Académico y Horarios
+## Verticalización Modulo control Académico y Horarios 
 Tecnologias: ERP Adempiere 3.8 
 #### WEB SOLUTION - DON BOSCO 
 Periodo: junio 2017 - Desarrollo e Implementación
 </br>
 
 ## Verticalización Modulo control de Contadores Rockolas
-Tecnologias: Adempiere 3.8, Interface de colector para ANDROID en .NET C# con Xamarin.
+Tecnologias: Adempiere 3.8, Interface de colector para ANDROID en .NET C# con Xamarin Visual Studio 2015.
 #### SOLUCIONES INFORMATICAS - NICA SLOT 
 Periodo: diciembre 2016 - Desarrollo e Implementación
 </br>
 
 ## Sistema Contabilidad y Bancos, Evaluación Presupuesto
-Tecnologias: Visual Studio 2010 VB.NET y SQL SERVER 2008
+Tecnologias: Visual Studio 2010 VB.NET, Crystal Repots, DevXpress y SQL SERVER 2008
 #### SOLUCIONES INFORMATICAS - SISTEMA DE INTEGRACION TURISTICA – SITCA
 Periodo: mayo 2016 - Desarrollo e Implementación
 </br>
 
 ## ERP Adempiere 3.7
-Tecnologias: Desarrollo de más 150 reportes en Jasper, módulos Contabilidad, Inventarios, CXC, CXP, Producción, Ventas, Bancos, Exportaciones, Gerenciales, Nomina, Customización exportaciones packing list, rendimientos de materia prima en producción, Base de Datos PostgreSQL
+Tecnologias: Desarrollo de más 150 reportes en Jasper Reports, módulos Contabilidad, Inventarios, CXC, CXP, Producción, Ventas, Bancos, Exportaciones, Gerenciales, Nomina, Customización exportaciones packing list, rendimientos de materia prima en producción, Base de Datos PostgreSQL
 #### CENTRAL AMERICA FISHIRIES  
 Periodo: junio 2014 – octubre 2015 - programación e Integración al ![#f03c15]**ERP Adempiere**
 </br>
