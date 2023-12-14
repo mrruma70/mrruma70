@@ -3,7 +3,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mrrum70@gmail.com)
 </br>
 </br>
-Desarrollo de Sistemas en CLIPPER, VFP, VB6, VB.NET/C#, Sql Server 2008/2016, POSTGRESQL, MYSQL, ORACLE, SQLITE, DevExpress, Telerik, ComponetOne, ASP.NET MVC5, Entity Framework, Code First, Web Services, Api Services, Reporting Services, Crystal Report for .NET., Xamarin (cross-platform development software which simplifies mobile application creation ), Adempiere - Idempiere ERP, CRM and SCM.
+Desarrollo de Sistemas en CLIPPER, VISUAL FOXPRO, VISUAL BASIC v6, VISUAL BASIC Y C# .NET, SQL SERVER, POSTGRESQL, MYSQL, ORACLE, SQLITE, DevExpress, Telerik, ComponetOne, ASP .NET/CORE C# MVC, Entity Framework, Code First, Web Services, Api Rest, Reporting Services, Intregación de Servicios, Crystal Report for .NET, Xamarin (cross-platform development software which simplifies mobile application creation ), Adempiere ERP-CRM and SCM.
 
 ## Tecnologías: 🌐
 
