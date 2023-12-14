@@ -55,7 +55,9 @@ Periodo: may. 2022 - Desarrollo e Implementación
 
 ## Sistema de Administración de Servicios de Fibra Óptica (SASFO)
 Tecnologias: Visual Studio 2019, WEB ASP.NET C# MCV, EntityFramework Code First, JavaScript, JSon, jQuery, AJAX, BootStrap v4 App Stack, LINQ, SendGrid email, VETRO FiberMap® API CROSSWALK V1 and V2, SQL SERVER 2017. Inicio de sesión único (SSO), Integración Google MAP.
-#### WE ENABLE IT CA S.A. · Trabajo Remoto-Panamá
+#### WE ENABLE IT CA S.A. · Trabajo Remoto-Panamá 
+![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)
+</br>
 Periodo: oct. 2020 - may. 2022 - Desarrollo e Implementación
 </br>
 
@@ -92,7 +94,7 @@ Periodo: mayo 2016 - Desarrollo e Implementación
 ## ERP Adempiere 3.7
 Tecnologias: Desarrollo de más 150 reportes en Jasper Reports, módulos Contabilidad, Inventarios, CXC, CXP, Producción, Ventas, Bancos, Exportaciones, Gerenciales, Nomina, Customización exportaciones packing list, rendimientos de materia prima en producción, Base de Datos PostgreSQL
 #### CENTRAL AMERICA FISHIRIES  
-Periodo: junio 2014 – octubre 2015 - programación e Integración al ![#f03c15]**ERP Adempiere**
+Periodo: junio 2014 – octubre 2015 - programación e Integración al **ERP Adempiere**
 </br>
 
 
