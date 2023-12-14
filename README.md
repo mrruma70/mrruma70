@@ -56,11 +56,11 @@ Periodo: may. 2022 - Desarrollo e Implementación
 
 ## Sistema de Administración de Servicios de Fibra Óptica (SASFO)
 Tecnologias: Visual Studio 2019, WEB ASP.NET C# MCV, EntityFramework Code First, JavaScript, JSon, jQuery, AJAX, BootStrap v4 App Stack, LINQ, SendGrid email, VETRO FiberMap® API CROSSWALK V1 and V2, SQL SERVER 2017. El inicio de sesión único (SSO), Integración Google MAP.
-# WE ENABLE IT CA S.A. · Trabajo Remoto-Panamá
+#### WE ENABLE IT CA S.A. · Trabajo Remoto-Panamá
 Periodo: oct. 2020 - may. 2022 - Desarrollo e Implementación
 </br>
 
-### SISTEMA DE PRESUPUESTO
+## SISTEMA DE PRESUPUESTO
 Tecnologias: Visual Studio 2017 Desktop, metodología MVP, SQL SERVER 2016, Crystal Repots, DevXpress.
 #### SOLUCIONES INFORMATICAS -	PAWANKA FUND
 Periodo: Abril 2020 - Desarrollo e Implementación
@@ -68,7 +68,7 @@ Periodo: Abril 2020 - Desarrollo e Implementación
 
 ## Sistema Recolector de Cobros de Tributos
 Tecnologias: Desarrollo en Xamarin Visual Studio 2017 App Móvil (ANDROID), con Base datos local SQLITE, y Consumo de datos por WEBAPI BD SQL SERVER 2016, adaptación y creación de clases para la impresión Bixolon SPP-230 III Mobile Bluetooth.
-# SOLUCIONES INFORMATICAS -	ALCALDIA CIUDAD SANDINO
+#### SOLUCIONES INFORMATICAS -	ALCALDIA CIUDAD SANDINO
 Periodo: Mayo – septiembre 2019 - Desarrollo e Implementación
 </br>
 
