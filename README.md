@@ -4,7 +4,7 @@
 </br>
 
 </br>
-Desarrollo de Sistemas en CLIPPER, VFP, VB6, VB.NET/C#, Sql Server 2008/2016, POSTGRESQL, , MYSQL, ORACLE, SQLITE, DevExpress, Telerik, ComponetOne, ASP.NET MVC5, Entity Framework, Code First, Web Services, Api Services, Reporting Services, Crystal Report for .NET., Xamarin (cross-platform development software which simplifies mobile application creation ), Adempiere - Idempiere ERP, CRM and SCM.
+Desarrollo de Sistemas en CLIPPER, VFP, VB6, VB.NET/C#, Sql Server 2008/2016, POSTGRESQL, MYSQL, ORACLE, SQLITE, DevExpress, Telerik, ComponetOne, ASP.NET MVC5, Entity Framework, Code First, Web Services, Api Services, Reporting Services, Crystal Report for .NET., Xamarin (cross-platform development software which simplifies mobile application creation ), Adempiere - Idempiere ERP, CRM and SCM.
 
 ## Tecnologías: 🌐
 
@@ -93,7 +93,7 @@ Periodo: mayo 2016 - Desarrollo e Implementación
 ## ERP Adempiere 3.7
 Tecnologias: Desarrollo de más 150 reportes en Jasper, módulos Contabilidad, Inventarios, CXC, CXP, Producción, Ventas, Bancos, Exportaciones, Gerenciales, Nomina, Customización exportaciones packing list, rendimientos de materia prima en producción, Base de Datos PostgreSQL
 #### CENTRAL AMERICA FISHIRIES  
-Periodo: junio 2014 – octubre 2015 - programación e Integración al ERP Adempiere
+Periodo: junio 2014 – octubre 2015 - programación e Integración al **ERP Adempiere**
 </br>
 
 
