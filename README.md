@@ -34,12 +34,19 @@ Desarrollo de Sistemas en CLIPPER, VISUAL FOXPRO, VISUAL BASIC v6, VISUAL BASIC 
 
 # Proyectos Desarrollados: 🔭
 
+## Sistema de Gestion de Prestamos - (Proyecto en Desarrollo)
+Tecnologias: ASP.NET, Visual Studio 2019, SQL Server 2019, C# MVC, Entity Framework Code First, JavaScript, JSON, jQuery, AJAX, Bootstrap.
+•	Características: Aplicación web responsive para PC, Movil,
+#### WEB SOLUTION -	T-PRESTO
+</br>
+Periodo: Septiembre 2024 – Octubre 2024 - Desarrollo e Implementación
+
 ## Sistema de Crédito, Control de Fondos, Acopio y Liquidaciones Cafe-Cacao
 Tecnologias: ASP.NET MVC ENTITY FRAMEWORK 5, CODE FIRST, Bootstrap, LINQ, JASON, JAVASCRIPT, SQL SERVER 2016
 #### SOLUCIONES INFORMATICAS -	UCA-SOPPEXCCA
-Periodo: Abril 2018 – Abril 2019 - Desarrollo e Implementación
-</br>
 Periodo: Abril - Septiembre 2023 - Mantenimiento Adaptativo al Sistema
+</br>
+
 
 ## Sistema Control de Servicios de Recarga Extinguidores
 Tecnologias: ASP.NET VISUAL STUDIO 2019 con SQL SERVER 2019, integracion a ERP ADEMPIERE, responsive para PC, Tablet, Movil. C# MCV, EntityFramework Code First, JavaScript, JSon, jQuery, AJAX, BootStrap, SendGrid email, Captura de Firma digital.
